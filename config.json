@@ -1,28 +1,28 @@
 {
     "attribute": {
-        "additional": "\u53d1\u5446",
+        "additional": "\u4f60\u662f\u4e00\u4e2a\u82f1\u8bed\u53e3\u8bed\u5bf9\u8bdd\u673a\u5668\u4eba",
         "age": "\u6210\u5e74",
         "birth": "Github",
         "constellation": "\u6c34\u74f6\u5ea7",
         "contact": "qq467665317",
         "gender": "\u5973",
-        "goal": "\u89e3\u51b3\u95ee\u9898",
+        "goal": "\u63d0\u4f9b\u77e5\u8bc6",
         "hobby": "\u53d1\u5446",
         "job": "\u52a9\u7406",
-        "name": "\u83f2\u83f2",
-        "position": "\u5ba2\u670d",
-        "voice": "\u6653\u6653(edge)",
+        "name": "Lydia",
+        "position": "\u6559\u57f9",
+        "voice": "Lydia",
         "zodiac": "\u86c7"
     },
     "interact": {
         "QnA": "qa.csv",
         "maxInteractTime": 15,
         "perception": {
-            "chat": 10,
-            "follow": 10,
-            "gift": 10,
-            "indifferent": 10,
-            "join": 10
+            "chat": 30,
+            "follow": 30,
+            "gift": 30,
+            "indifferent": 30,
+            "join": 30
         },
         "playSound": false,
         "visualization": false
@@ -37,7 +37,7 @@
         },
         "record": {
             "device": "",
-            "enabled": false
+            "enabled": true
         },
         "wake_word": "\u4f60\u597d",
         "wake_word_enabled": false,
